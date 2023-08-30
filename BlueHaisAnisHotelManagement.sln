@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlueHaisAnisHotelManagement", "BlueHaisAnisHotelManagement.csproj", "{D62AD386-97EB-45CF-9E5D-1BC52FA25138}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tools", "..\ClassLibrary1\Tools.csproj", "{9A6200DB-A8EE-431D-887B-676BE734B815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D62AD386-97EB-45CF-9E5D-1BC52FA25138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62AD386-97EB-45CF-9E5D-1BC52FA25138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62AD386-97EB-45CF-9E5D-1BC52FA25138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62AD386-97EB-45CF-9E5D-1BC52FA25138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6200DB-A8EE-431D-887B-676BE734B815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6200DB-A8EE-431D-887B-676BE734B815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6200DB-A8EE-431D-887B-676BE734B815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6200DB-A8EE-431D-887B-676BE734B815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15FAE479-C60A-4843-817D-5AB025618664}
+	EndGlobalSection
+EndGlobal
